@@ -24,15 +24,12 @@ const Home = () => {
                <Col lg='6'>
                   <div className="hero__content">
                      <div className="hero__subtitle d-flex align-items-center">
-                        <Subtitle subtitle={'Know Before You Go'} />
+                        <Subtitle subtitle={'India Where Secrets Await'} />
                         <img src={worldImg} alt="" />
                      </div>
-                     <h1>Traveling opens the door to creating <span className='hightlight'> memories</span></h1>
+                     <h1>Discover India:<span className='hightlight text-lg'>  A Journey Through Heritage, Diversity, and Timeless Beauty</span></h1>
                      <p>
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                        Ullam ipsum nobis asperiores soluta voluptas quas voluptates.
-                        Molestiae tempora dignissimos, animi praesentium molestias perferendis
-                        porro expedita delectus. Soluta natus porro.
+                     Explore the essence of India, a land where every corner unveils a unique story, each rooted in centuries of tradition, diversity, and cultural richness. From the vibrant festivals to the serene landscapes, experience the magic of a country that offers unforgettable moments at every step of your journey.
                      </p>
                   </div>
                </Col>
